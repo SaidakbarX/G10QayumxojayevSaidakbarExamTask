@@ -22,5 +22,6 @@ public class MainContext : DbContext
         modelBuilder.ApplyConfiguration(new UserConfiguration());
         modelBuilder.ApplyConfiguration(new UserInfoConfiguration());
     }
+    //fjoejwowjeofewj
 
 }
